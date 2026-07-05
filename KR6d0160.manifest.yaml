@@ -22,11 +22,12 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0160_000.yaml, hash: 'sha256:690762e1329305fc452f2e4d406400183be5cd1cbfbbe188cacfd1cd5c3151b1'}
-  - {seq: 1, filename: KR6d0160_001.yaml, hash: 'sha256:3e9202d79ca80b162c1bd8fbac10ceb0c3c66f4412d961b0280f361972125c5b'}
-  - {seq: 2, filename: KR6d0160_002.yaml, hash: 'sha256:9efe270333a9f87e7f46a076577c28c941083c0e99c825793542ed2301c3677d'}
+  - {seq: 1, filename: KR6d0160_001.yaml, hash: 'sha256:2487deab6882c316dc8771f6c3036531b8e288de2a5dbc01b4cf6d478f4ab4d7'}
+  - {seq: 2, filename: KR6d0160_002.yaml, hash: 'sha256:cb058b27502d294d765b9b1efd3487547c1ce31f52793a6a44b8157c8aa174aa'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6d0160_001.markers.yaml, hash: 'sha256:ef6a86cc8560d328f34988efce64cd95a5dc5be94b59985442979a5c8b42c17b'}
-  - {seq: 2, role: markers, filename: assets/KR6d0160_002.markers.yaml, hash: 'sha256:e3e0bbb4d38150100a9354f3b3fc2b62cafd35432d8235713b43cddf33bfab8a'}
+  - {seq: 0, role: markers, filename: assets/KR6d0160_000.markers.yaml, hash: 'sha256:e59ea837254fdcb21865a08c72b3fe2353e171daefd56f533d9f4f812d340f31'}
+  - {seq: 1, role: markers, filename: assets/KR6d0160_001.markers.yaml, hash: 'sha256:ec8c6ec8ea623c506b6395f22b277ea969bfc1dd83100cb85b6c43b3b112d479'}
+  - {seq: 2, role: markers, filename: assets/KR6d0160_002.markers.yaml, hash: 'sha256:262fa70dac203abdccf176b3e4a16b06067dd60ec1453499c397ca630cb20909'}
 table_of_contents:
 - ref:
     seq: 1
@@ -78,7 +79,4 @@ table_of_contents:
   label: No. 926-B 議宋國新書考
   type: mulu
   level: 1
-hash: sha256:455a5ea7ed847b826070825e5b95640847c10b8334accfa4b388a2a81aec4a09
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1395ecbd4ccb30f6099f02b203682f8915824f4818a82d5e9dd6e1287162d53b
